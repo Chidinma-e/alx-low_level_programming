@@ -12,6 +12,7 @@ int main(void)
 	long alongstr;
 	long long alongerstr;
 	int awholenum;
+
 	printf("Size of a char: %lu byte(s)\n", sizeof(astring));
 	printf("Size of an int: %lu byte(s)\n", sizeof(awholenum));
 	printf("Size of a long int: %lu byte(s)\n", sizeof(alongstr));
